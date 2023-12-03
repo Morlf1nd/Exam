@@ -1,0 +1,3 @@
+﻿  Examen.cpp
+D:\vs code\project\Examen\Examen.cpp(36,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Examen.vcxproj -> D:\vs code\project\Examen\x64\Debug\Examen.exe
